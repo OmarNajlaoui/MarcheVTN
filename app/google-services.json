@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333893285046",
+    "project_id": "marchev2-21c87",
+    "storage_bucket": "marchev2-21c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333893285046:android:3b84b5d834505331e0a217",
+        "android_client_info": {
+          "package_name": "com.marche.mvtn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333893285046-prgcatuujtd21sa8i2uioji3tvi3scpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqvulas05w86QhzAJvOX8G2eC11A5-zNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333893285046-prgcatuujtd21sa8i2uioji3tvi3scpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
